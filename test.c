@@ -7,6 +7,7 @@ int main(){
     
     printf("hello world!!\n");
     printf("a:%d", a);
+    printf("/nガァァァノンドロフゥゥゥ");
 
     return 0;
 }
